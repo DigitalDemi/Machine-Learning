@@ -5,8 +5,13 @@ name = "pypi"
 
 [packages]
 pandas = "*"
+jinja2 = "*"
+scikit-learn = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
-python_version = "3.12"
+python_DataAnalysis.ipynbversion = "3.12"
